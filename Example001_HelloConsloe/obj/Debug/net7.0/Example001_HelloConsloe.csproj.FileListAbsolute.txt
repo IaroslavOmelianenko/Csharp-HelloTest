@@ -1,0 +1,15 @@
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\bin\Debug\net7.0\Example001_HelloConsloe.exe
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\bin\Debug\net7.0\Example001_HelloConsloe.deps.json
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\bin\Debug\net7.0\Example001_HelloConsloe.runtimeconfig.json
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\bin\Debug\net7.0\Example001_HelloConsloe.dll
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\bin\Debug\net7.0\Example001_HelloConsloe.pdb
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\obj\Debug\net7.0\Example001_HelloConsloe.csproj.AssemblyReference.cache
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\obj\Debug\net7.0\Example001_HelloConsloe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\obj\Debug\net7.0\Example001_HelloConsloe.AssemblyInfoInputs.cache
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\obj\Debug\net7.0\Example001_HelloConsloe.AssemblyInfo.cs
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\obj\Debug\net7.0\Example001_HelloConsloe.csproj.CoreCompileInputs.cache
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\obj\Debug\net7.0\Example001_HelloConsloe.dll
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\obj\Debug\net7.0\refint\Example001_HelloConsloe.dll
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\obj\Debug\net7.0\Example001_HelloConsloe.pdb
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\obj\Debug\net7.0\Example001_HelloConsloe.genruntimeconfig.cache
+C:\Users\Yara\Desktop\ДЗ\C#\examples\Example001_HelloConsloe\obj\Debug\net7.0\ref\Example001_HelloConsloe.dll
